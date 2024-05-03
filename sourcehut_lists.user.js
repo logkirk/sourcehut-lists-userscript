@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Sourcehut Lists Line Wrap Fix
 // @namespace    https://git.sr.ht/~logankirkland/sourcehut-lists-userscript/tree/main/item/sourcehut_lists.user.js
-// @version      1.2
+// @version      1.3
 // @description  Fixes line wrap issue on sourcehut lists by adding CSS
 // @author       Logan Kirkland <logan@logankirk.land>
 // @match        https://lists.sr.ht/*
@@ -16,8 +16,8 @@
     style.innerHTML = `
     .message-body { white-space: pre-wrap; }
     .message-body.original { white-space: pre; }
-    .original-link { color: #CDC8C2; text-decoration: underline; }
-    .original-link:hover { color: #CDC8C2; text-decoration: none; }
+    .original-link { color: #6C757D; text-decoration: underline; }
+    .original-link:hover { color: #6C757D; text-decoration: none; }
     `;
     document.head.appendChild(style);
 
