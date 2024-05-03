@@ -1,6 +1,11 @@
 Sourcehut Lists Line Wrap Fix
 =============================
 
+[project](https://sr.ht/~logankirkland/sourcehut-lists-userscript/) / 
+[repo](https://git.sr.ht/~logankirkland/sourcehut-lists-userscript) / 
+[mailing list](https://lists.sr.ht/~logankirkland/sourcehut-lists-userscript) /
+[issues](https://todo.sr.ht/~logankirkland/sourcehut-lists-userscript)
+
 This is a userscript intended to fix the issues that are caused by
 Sourcehut Lists not wrapping messages. It causes all messages to be
 wrapped by default and adds a link to each message header to toggle
