@@ -6,10 +6,15 @@ Sourcehut Lists Line Wrap Fix
 [mailing list](https://lists.sr.ht/~logankirkland/sourcehut-lists-userscript) /
 [issues](https://todo.sr.ht/~logankirkland/sourcehut-lists-userscript)
 
+[![builds.sr.ht status](https://builds.sr.ht/~logankirkland/sourcehut-lists-userscript.svg)](https://builds.sr.ht/~logankirkland/sourcehut-lists-userscript?)
+
 This is a userscript intended to fix the issues that are caused by
 Sourcehut Lists not wrapping messages. It causes all messages to be
 wrapped by default and adds a link to each message header to toggle
 wrapping for that message.
+
+> ℹ️ **Note**  
+> The canonical project locations are linked above. Other locations are mirrors.
 
 ## Installation
 
@@ -37,3 +42,4 @@ Here are some relevant community discussions about this issue:
 I am *not* a JS developer, so any feedback in the form of comments or 
 patches is welcome. Please send any feedback (including patches) to:
 [~logankirkland/sourcehut-lists-userscript@lists.sr.ht](mailto:~logankirkland/sourcehut-lists-userscript@lists.sr.ht)
+
